@@ -1,0 +1,22 @@
+@import url('https://fonts.cdnfonts.com/css/josefin-sans');
+
+body {
+    margin: 0;
+    background-color: #053527;
+    font-family: Josefin Sans, Helvetica, sans-serif;
+    color:#C7E2D9;
+}
+
+a:visited {
+    color:#C7E2D9;
+}
+
+a:hover {
+    color:#97AE0C;
+}
+
+.pagination {
+    background:#fff;
+    border-radius:10px;
+    padding:12px;
+}
